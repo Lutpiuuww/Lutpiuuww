@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&gradient=90,00f2fe,4facfe&height=220&section=header&text=Welcome%20To%20My%20Universe&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&gradient=90,00f2fe,4facfe&height=220&section=header&text=Welcome%20To%20My%20Profile!&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+# Hello, I'm Muhammad Luthfi Fadil 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4facfe&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;Student+at+Universitas+Malikussaleh;Crafting+Aesthetic+%26+Modern+Websites;Writing+Clean+%26+Elegant+Code" alt="Typing SVG" /></a>
 
@@ -15,18 +17,20 @@
 
 <br><br>
 
-### ✦ About Me
+### About Me
 
 <blockquote>
-<p>🎓 &nbsp; Currently studying Information Systems at <b>Universitas Malikussaleh</b>.<br>
-💡 &nbsp; Passionate about building highly responsive and aesthetic <b>Web Applications</b>.<br>
-🌱 &nbsp; Continually learning and adapting to modern frameworks and <b>System Architecture</b>.<br>
-📫 &nbsp; Always open for collaboration! Reach me at <a href="mailto:muhammadluthfiaja41@gmail.com"><b>muhammadluthfiaja41@gmail.com</b></a>.</p>
+<p>
+Currently studying Information Systems at <b>Universitas Malikussaleh</b>.<br>
+Passionate about building highly responsive and modern <b>Web Applications</b>.<br>
+Continually learning and adapting to modern frameworks and <b>System Architecture</b>.<br>
+Always open for professional collaboration. Reach me at <a href="mailto:muhammadluthfiaja41@gmail.com"><b>muhammadluthfiaja41@gmail.com</b></a>.
+</p>
 </blockquote>
 
 <br>
 
-### ✦ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,python,php,mysql,html,css,js,ts,git,github,vscode,figma&perline=8" alt="Tech Stack" />
@@ -34,7 +38,7 @@
 
 <br><br>
 
-### ✦ GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <!-- Trophies -->
@@ -58,7 +62,7 @@
 
 <br><br>
 
-### ✦ Featured Projects
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/Lutpiuuww/My-Portofolio">
@@ -75,5 +79,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&gradient=90,4facfe,00f2fe&height=120&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=22&fontAlignY=60&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&gradient=90,4facfe,00f2fe&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=22&fontAlignY=60&fontColor=ffffff" width="100%" />
 </div>
