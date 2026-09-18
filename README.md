@@ -12,11 +12,11 @@
 
 I am a passionate software engineering enthusiast currently pursuing my degree in Information Systems at **Universitas Malikussaleh**. I focus on writing clean, maintainable code and building highly responsive web applications.
 
-- 🔭 **Currently building:** Interactive web solutions and system architectures.
-- 🌱 **Currently learning:** Advanced Backend Systems & Cloud Technologies.
-- 🤝 **Open for:** Professional collaborations and open-source contributions.
-- 📫 **Reach me at:** [muhammadluthfiaja41@gmail.com](mailto:muhammadluthfiaja41@gmail.com)
-- 🔗 **LinkedIn:** [Muhammad Luthfi Fadil](https://www.linkedin.com/in/muhammad-luthfi-fadil-96bab3387)
+- <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2338bdf8" width="16" style="vertical-align: text-bottom;"> **Currently building:** Interactive web solutions and system architectures.
+- <img src="https://api.iconify.design/mdi:book-open-page-variant.svg?color=%2338bdf8" width="16" style="vertical-align: text-bottom;"> **Currently learning:** Advanced Backend Systems & Cloud Technologies.
+- <img src="https://api.iconify.design/mdi:handshake.svg?color=%2338bdf8" width="16" style="vertical-align: text-bottom;"> **Open for:** Professional collaborations and open-source contributions.
+- <img src="https://api.iconify.design/mdi:email.svg?color=%2338bdf8" width="16" style="vertical-align: text-bottom;"> **Reach me at:** [muhammadluthfiaja41@gmail.com](mailto:muhammadluthfiaja41@gmail.com)
+- <img src="https://api.iconify.design/mdi:linkedin.svg?color=%2338bdf8" width="16" style="vertical-align: text-bottom;"> **LinkedIn:** [Muhammad Luthfi Fadil](https://www.linkedin.com/in/muhammad-luthfi-fadil-96bab3387)
 
 <br clear="both">
 <br>
