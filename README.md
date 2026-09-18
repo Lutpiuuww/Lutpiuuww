@@ -85,14 +85,4 @@
 <br><br>
 
 <div align="center">
-  <!-- Glowing Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-2e753880-a42e-11eb-9b8e-324e6669931b.gif" width="100%" />
-  <br><br>
-  
-  <!-- Elegant Footer Greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&pause=1000&color=818cf8&center=true&vCenter=true&width=600&height=60&lines=THANK+YOU+FOR+VISITING" alt="Thank You" />
-  
-  <br><br>
-  <!-- Interactive Bongo Cat GIF -->
-  <img src="https://raw.githubusercontent.com/Lutpiuuww/Lutpiuuww/main/cat.gif" width="150" alt="Bongo Cat Typing" />
 </div>
