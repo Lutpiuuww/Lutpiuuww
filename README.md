@@ -94,5 +94,5 @@
   
   <br><br>
   <!-- Interactive Bongo Cat GIF -->
-  <img src="./cat.gif" width="150" alt="Bongo Cat Typing" />
+  <img src="https://raw.githubusercontent.com/Lutpiuuww/Lutpiuuww/main/cat.gif" width="150" alt="Bongo Cat Typing" />
 </div>
